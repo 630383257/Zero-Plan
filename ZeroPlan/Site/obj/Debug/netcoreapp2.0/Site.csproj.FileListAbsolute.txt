@@ -1,0 +1,11 @@
+E:\MyGithub\Zero-Plan\ZeroPlan\Site\bin\Debug\netcoreapp2.0\Site.deps.json
+E:\MyGithub\Zero-Plan\ZeroPlan\Site\bin\Debug\netcoreapp2.0\Site.runtimeconfig.json
+E:\MyGithub\Zero-Plan\ZeroPlan\Site\bin\Debug\netcoreapp2.0\Site.runtimeconfig.dev.json
+E:\MyGithub\Zero-Plan\ZeroPlan\Site\bin\Debug\netcoreapp2.0\Site.dll
+E:\MyGithub\Zero-Plan\ZeroPlan\Site\bin\Debug\netcoreapp2.0\Site.pdb
+E:\MyGithub\Zero-Plan\ZeroPlan\Site\obj\Debug\netcoreapp2.0\Site.csprojResolveAssemblyReference.cache
+E:\MyGithub\Zero-Plan\ZeroPlan\Site\obj\Debug\netcoreapp2.0\Site.csproj.CoreCompileInputs.cache
+E:\MyGithub\Zero-Plan\ZeroPlan\Site\obj\Debug\netcoreapp2.0\Site.AssemblyInfoInputs.cache
+E:\MyGithub\Zero-Plan\ZeroPlan\Site\obj\Debug\netcoreapp2.0\Site.AssemblyInfo.cs
+E:\MyGithub\Zero-Plan\ZeroPlan\Site\obj\Debug\netcoreapp2.0\Site.dll
+E:\MyGithub\Zero-Plan\ZeroPlan\Site\obj\Debug\netcoreapp2.0\Site.pdb
